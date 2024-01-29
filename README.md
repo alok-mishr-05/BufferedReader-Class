@@ -18,4 +18,4 @@ This simple Java program helps you find the greatest number among three given nu
 Compile the program using the following command:
 
 ```bash
-javac GreatestNumberFinder.java
+javac FindGreatestNumber.java
